@@ -4,7 +4,7 @@
 // let randomNumber;
 // randomNumber = Math.floor(Math.random() * 100);
 
-// console.log(randomNumber);
+
 
 // button.addEventListener("click", function () {
 //   let person = prompt("Please enter your name", "Harry Potter");
